@@ -3,7 +3,7 @@
 
 def media(numero1, numero2):
 	"""Cria o método que calcula a média de dois valores."""
-	return (nume1 + numero2) / 2
+	return (numero1 + numero2) / 2
 
 def maior_de_tres(n1, n2, n3):
 	"""Método que verifica o maior de três números."""
